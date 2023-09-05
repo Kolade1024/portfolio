@@ -1,10 +1,10 @@
 <div align="center">
 
-# vCard - Personal portfolio
+# Kolade - My Portfolio
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+This is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
- <a href="https://codingstella.github.io/vCard-personal-portfolio/"><strong>➥ Live Demo</strong></a> 
+ <a href="https://kolade1024.github.io/portfolio/"><strong>Live SITE</strong></a> 
  
  </div>
  
@@ -16,4 +16,4 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 ## License
 
-This project is **free to use** and does not contains any license.
+This project is Oluwafemi Kolade's Portfolio project.
